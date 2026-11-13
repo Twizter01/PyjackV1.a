@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Blackjack for your CLI. Addictive, Simple, Fast"
 readme = "README.md"
 authors = [
-    { name = "Twizter", email = "gabrielandrejimenez11@gmail.com" }
+    { name = "Twizter", email = "" }
 ]
 requires-python = ">=3.11"
 dependencies = []
